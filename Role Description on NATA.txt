@@ -1,0 +1,9 @@
+Here are some of my thoughts on the roles.
+
+1. Super Admin
+2. State & Territory wise Admin.
+3. Event creator.
+4  Event publisher (here, at this stage,  the event got finalised and reviewed by the event creator and allows the publisher to approve & announced to the public, at this stage, the published event will accept the event registration and participate registration)
+5. Event Organisers (this is a delegate action role, only for the committee executives members role). This role has limited access on any amendments related to the event but this role cannot delete any items with respect to registrations made against the event).
+6. Committee Members, by default role provided to the executive members, specific to state and territory level. This role also have for site level to upload any images and flyers details on the website(specific to state and territory pages for which the member belongs too).
+7. Other roles like Guest and registered members for public login.
